@@ -7,13 +7,13 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadOrganization</key>
-		<string>Company Name</string>
+		<string>JP IT Services</string>
 		<key>PayloadIdentifier</key>
 		<string>FCAA5541-1B5B-4A9B-89EF-26EDBB82AEA8</string>
 		<key>PayloadDisplayName</key>
-		<string>Disable iCloud Preference Pane</string>
+		<string>Disable Profiles Pane</string>
 		<key>PayloadDescription</key>
-		<string>Disables the iCloud preference pane</string>
+		<string>Disables the Profiles Preference Pane</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadEnabled</key>
@@ -43,7 +43,7 @@
 				<true/>
 				<key>DisabledPreferencePanes</key>
 				<array>
-					<string>com.apple.preferences.icloud</string>
+					<string>com.apple.preferences.configurationprofiles</string>
 				</array>
 			</dict>
 		</array>
